@@ -1,6 +1,6 @@
 <dt class="glossary" id="abdomen" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Abdomen#Invertebrates" title="Abdomen">abdomen</a></dfn></dt><dd class="glossary">Body of the insect, toward the <a href="/wiki/Posterior_(anatomy)" class="mw-redirect" title="Posterior (anatomy)">posterior</a> of the thorax.</dd>
 
-<dt class="glossary" id="acanthus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Acanthus_(entomology)&amp;action=edit&amp;redlink=1" class="new" title="Acanthus (entomology) (page does not exist)">acanthus</a></dfn></dt><dd class="glossary">thorn-like projection, typically a single-celled cuticular growth without tormogen (socket) or sensory cells.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></dd>
+<dt class="glossary" id="acanthus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Acanthus_(entomology)&amp;action=edit&amp;redlink=1" class="new" title="Acanthus (entomology) (page does not exist)">acanthus</a></dfn></dt><dd class="glossary">thorn-like projection, typically a single-celled cuticular growth without tormogen (socket) or sensory cells.<sup id="cite_ref-1" class="reference"><a href="https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-1">&#91;1&#93;</a></sup></dd>
 
 <dt class="glossary" id="acaricide" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Acaricide" title="Acaricide">acaricide</a></dfn></dt><dd class="glossary">A chemical employed to kill and control mites and ticks.</dd>
 
@@ -129,7 +129,7 @@
 
 <dt class="glossary" id="arculus" style="margin-top: 0.4em;"><dfn class="glossary">arculus</dfn></dt><dd class="glossary">A crossvein between the radius and cubitus near the base of the wing in certain insects.</dd>
 
-<dt class="glossary" id="areola" style="margin-top: 0.4em;"><dfn class="glossary">areola</dfn></dt><dd class="glossary">1.&#160;&#160;A small ring of color</dd><dd class="glossary">2.&#160;&#160;In crayfish, the hourglass pattern on the dorsal surface of the cephalothorax</dd><sup id="cite_ref-Wigney_2-0" class="reference"><a href="#cite_note-Wigney-2">&#91;2&#93;</a></sup>
+<dt class="glossary" id="areola" style="margin-top: 0.4em;"><dfn class="glossary">areola</dfn></dt><dd class="glossary">1.&#160;&#160;A small ring of color</dd><dd class="glossary">2.&#160;&#160;In crayfish, the hourglass pattern on the dorsal surface of the cephalothorax</dd><sup id="cite_ref-Wigney_2-0" class="reference"><a href="https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-Wigney-2">&#91;2&#93;</a></sup>
 
 <dt class="glossary" id="arolium" style="margin-top: 0.4em;"><dfn class="glossary">arolium</dfn></dt><dd class="glossary">A pad-like median lobe between the tarsal claws.</dd>
 
@@ -340,7 +340,7 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 
 <dt class="glossary" id="lunule" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Lunule_(entomology)&amp;action=edit&amp;redlink=1" class="new" title="Lunule (entomology) (page does not exist)">lunule</a></dfn></dt><dd class="glossary">A body area or marking roughly in the shape of a crescent.</dd>
 
-<dt class="glossary" id="macrochaete" style="margin-top: 0.4em;"><dfn class="glossary">macrochaete</dfn></dt><dd class="glossary">large bristles and scales.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></dd>
+<dt class="glossary" id="macrochaete" style="margin-top: 0.4em;"><dfn class="glossary">macrochaete</dfn></dt><dd class="glossary">large bristles and scales.<sup id="cite_ref-3" class="reference"><a href="https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-3">&#91;3&#93;</a></sup></dd>
 
 <dt class="glossary" id="macropterous" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Macropterous&amp;action=edit&amp;redlink=1" class="new" title="Macropterous (page does not exist)">macropterous</a></dfn></dt><dd class="glossary">Having long or large <a href="/wiki/Elytra" class="mw-redirect" title="Elytra">elytra</a>, as long, or longer than the <a href="/wiki/Abdomen#Invertebrates" title="Abdomen">abdomen</a>.</dd>
 
@@ -378,7 +378,7 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 
 <dt class="glossary" id="ocular_structure" style="margin-top: 0.4em;"><dfn class="glossary">ocular structure</dfn></dt><dd class="glossary">(Anatomical feature) the structure of the head containing the ocelli.</dd>
 
-<dt class="glossary" id="onisciform" style="margin-top: 0.4em;"><dfn class="glossary">onisciform</dfn></dt><dd class="glossary">A woodlouse shaped, flattened platyform appearance of a larva.<sup id="cite_ref-IPMRC_4-0" class="reference"><a href="#cite_note-IPMRC-4">&#91;4&#93;</a></sup></dd>
+<dt class="glossary" id="onisciform" style="margin-top: 0.4em;"><dfn class="glossary">onisciform</dfn></dt><dd class="glossary">A woodlouse shaped, flattened platyform appearance of a larva.<sup id="cite_ref-IPMRC_4-0" class="reference"><a href="https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-IPMRC-4">&#91;4&#93;</a></sup></dd>
 <dt class="glossary" id="oophagy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Oophagy" title="Oophagy">oophagy</a></dfn></dt><dd class="glossary">feeding on eggs.</dd>
 
 <dt class="glossary" id="opisthognathous" style="margin-top: 0.4em;"><dfn class="glossary">opisthognathous</dfn></dt><dd class="glossary">with receding mouthparts, or having mouthparts that slope backward or face backward.</dd>
@@ -405,7 +405,7 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 
 <dt class="glossary" id="palpi" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pedipalp" title="Pedipalp">pedipalp</a> (or labial palpi or palpi) <span id="labial_palpi"></span><span id="pedipalp"></span></dfn></dt><dd class="glossary">comparatively large processes that originate from below the head and curve forward in front of the face that sometimes appear like a beak. lp on the figure right.</dd>
 
-<dt class="glossary" id="phloeophagy" style="margin-top: 0.4em;"><dfn class="glossary">phloeophagy</dfn></dt><dd class="glossary">feeding on <a href="/wiki/Phloem" title="Phloem">phloem</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></dd>
+<dt class="glossary" id="phloeophagy" style="margin-top: 0.4em;"><dfn class="glossary">phloeophagy</dfn></dt><dd class="glossary">feeding on <a href="/wiki/Phloem" title="Phloem">phloem</a>.<sup id="cite_ref-5" class="reference"><a href="https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-7">&#91;7&#93;</a></sup></dd>
 
 <dt class="glossary" id="phyllophagy" style="margin-top: 0.4em;"><dfn class="glossary">phyllophagy</dfn></dt><dd class="glossary">feeding on leaves.</dd>
 
