@@ -1,4 +1,4 @@
-<h2><span id="A.E2.80.93C"></span><span class="mw-headline" id="A–C">A–C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_entomology_terms&amp;action=edit&amp;section=1" title="Edit section: A–C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
 <dl class="glossary">
 
 <dt class="glossary" id="abdomen" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Abdomen#Invertebrates" title="Abdomen">abdomen</a></dfn></dt><dd class="glossary">Body of the insect, toward the <a href="/wiki/Posterior_(anatomy)" class="mw-redirect" title="Posterior (anatomy)">posterior</a> of the thorax.</dd>
@@ -230,7 +230,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 
 <dt class="glossary" id="cuneus" style="margin-top: 0.4em;"><dfn class="glossary">cuneus</dfn></dt><dd class="glossary">Noun = <a href="https://en.wiktionary.org/wiki/cuneus" class="extiw" title="wiktionary:cuneus">wedge</a>. Particularly in <a href="/wiki/Miridae" title="Miridae">mirid</a> bugs, a wedge-shaped section of the <a href="/wiki/Hemelytron" class="mw-redirect" title="Hemelytron">hemelytra</a> (forewings), located at the apex of the thick, leathery part of the wings.</dd>
 </dl>
-<h2><span id="D.E2.80.93F"></span><span class="mw-headline" id="D–F">D–F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_entomology_terms&amp;action=edit&amp;section=2" title="Edit section: D–F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 
 <dt class="glossary" id="decticous" style="margin-top: 0.4em;"><dfn class="glossary">decticous</dfn></dt><dd class="glossary">Functional mandibles present in pupal state.</dd>
@@ -292,7 +291,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 <dt class="glossary" id="frontal_sutures" style="margin-top: 0.4em;"><dfn class="glossary">frontal sutures</dfn></dt><dd class="glossary">(Anatomical feature) suture lines that meet with the coroanl sutures to form an inverted Y.</dd>
 
 </dl>
-<h2><span id="G.E2.80.93L"></span><span class="mw-headline" id="G–L">G–L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_entomology_terms&amp;action=edit&amp;section=3" title="Edit section: G–L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Coreus_marginatus_dos.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coreus_marginatus_dos.jpg/220px-Coreus_marginatus_dos.jpg" decoding="async" width="220" height="224" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coreus_marginatus_dos.jpg/330px-Coreus_marginatus_dos.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coreus_marginatus_dos.jpg/440px-Coreus_marginatus_dos.jpg 2x" data-file-width="3454" data-file-height="3518" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Coreus_marginatus_dos.jpg" class="internal" title="Enlarge"></a></div><center>A "true" bug, order Hemiptera, with <b>geniculate</b> antennae</center></div></div></div>
 <dt class="glossary" id="gena" style="margin-top: 0.4em;"><dfn class="glossary">gena</dfn></dt><dd class="glossary">(Anatomical feature) the area below the compound eyes, the insect equivalent to human cheeks.</dd>
@@ -351,7 +349,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 <dt class="glossary" id="lunule" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Lunule_(entomology)&amp;action=edit&amp;redlink=1" class="new" title="Lunule (entomology) (page does not exist)">lunule</a></dfn></dt><dd class="glossary">A body area or marking roughly in the shape of a crescent.</dd>
 
 </dl>
-<h2><span id="M.E2.80.93O"></span><span class="mw-headline" id="M–O">M–O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_entomology_terms&amp;action=edit&amp;section=4" title="Edit section: M–O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 
 <dt class="glossary" id="macrochaete" style="margin-top: 0.4em;"><dfn class="glossary">macrochaete</dfn></dt><dd class="glossary">large bristles and scales.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></dd>
@@ -412,7 +409,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 <dt class="glossary" id="ozopore" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ozopore" title="Ozopore">ozopore</a></dfn></dt><dd class="glossary">the opening of an <b>ozadene</b>, a stink gland or <b>repugnatorial</b> gland</dd>
 
 </dl>
-<h2><span id="P.E2.80.93R"></span><span class="mw-headline" id="P–R">P–R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_entomology_terms&amp;action=edit&amp;section=5" title="Edit section: P–R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 
 <dt class="glossary" id="palynophagy" style="margin-top: 0.4em;"><dfn class="glossary">palynophagy</dfn></dt><dd class="glossary">feeding on pollen.</dd>
@@ -465,7 +461,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 <dt class="glossary" id="rhizophagy" style="margin-top: 0.4em;"><dfn class="glossary">rhizophagy</dfn></dt><dd class="glossary">feeding on <a href="/wiki/Rhizome" title="Rhizome">rhizomes</a>.</dd>
 
 </dl>
-<h2><span id="S.E2.80.93Z"></span><span class="mw-headline" id="S–Z">S–Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_entomology_terms&amp;action=edit&amp;section=6" title="Edit section: S–Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 
 <dt class="glossary" id="saltatorial" style="margin-top: 0.4em;"><dfn class="glossary">saltatorial</dfn></dt><dd class="glossary">adapted for leaping or jumping.</dd>
