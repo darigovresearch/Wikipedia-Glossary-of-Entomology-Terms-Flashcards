@@ -1,6 +1,3 @@
-
-<dl class="glossary">
-
 <dt class="glossary" id="abdomen" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Abdomen#Invertebrates" title="Abdomen">abdomen</a></dfn></dt><dd class="glossary">Body of the insect, toward the <a href="/wiki/Posterior_(anatomy)" class="mw-redirect" title="Posterior (anatomy)">posterior</a> of the thorax.</dd>
 
 <dt class="glossary" id="acanthus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Acanthus_(entomology)&amp;action=edit&amp;redlink=1" class="new" title="Acanthus (entomology) (page does not exist)">acanthus</a></dfn></dt><dd class="glossary">thorn-like projection, typically a single-celled cuticular growth without tormogen (socket) or sensory cells.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></dd>
@@ -229,8 +226,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 <dt class="glossary" id="crenulate" style="margin-top: 0.4em;"><dfn class="glossary">crenulate</dfn></dt><dd class="glossary">Adjective = <a href="https://en.wiktionary.org/wiki/crenulate" class="extiw" title="wiktionary:crenulate">scalloped</a>. Describes the outer edge of a wing that is convex at the end of each vein and concave in between.</dd>
 
 <dt class="glossary" id="cuneus" style="margin-top: 0.4em;"><dfn class="glossary">cuneus</dfn></dt><dd class="glossary">Noun = <a href="https://en.wiktionary.org/wiki/cuneus" class="extiw" title="wiktionary:cuneus">wedge</a>. Particularly in <a href="/wiki/Miridae" title="Miridae">mirid</a> bugs, a wedge-shaped section of the <a href="/wiki/Hemelytron" class="mw-redirect" title="Hemelytron">hemelytra</a> (forewings), located at the apex of the thick, leathery part of the wings.</dd>
-</dl>
-<dl class="glossary">
 
 <dt class="glossary" id="decticous" style="margin-top: 0.4em;"><dfn class="glossary">decticous</dfn></dt><dd class="glossary">Functional mandibles present in pupal state.</dd>
 
@@ -290,8 +285,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 
 <dt class="glossary" id="frontal_sutures" style="margin-top: 0.4em;"><dfn class="glossary">frontal sutures</dfn></dt><dd class="glossary">(Anatomical feature) suture lines that meet with the coroanl sutures to form an inverted Y.</dd>
 
-</dl>
-<dl class="glossary">
 <div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Coreus_marginatus_dos.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coreus_marginatus_dos.jpg/220px-Coreus_marginatus_dos.jpg" decoding="async" width="220" height="224" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coreus_marginatus_dos.jpg/330px-Coreus_marginatus_dos.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coreus_marginatus_dos.jpg/440px-Coreus_marginatus_dos.jpg 2x" data-file-width="3454" data-file-height="3518" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Coreus_marginatus_dos.jpg" class="internal" title="Enlarge"></a></div><center>A "true" bug, order Hemiptera, with <b>geniculate</b> antennae</center></div></div></div>
 <dt class="glossary" id="gena" style="margin-top: 0.4em;"><dfn class="glossary">gena</dfn></dt><dd class="glossary">(Anatomical feature) the area below the compound eyes, the insect equivalent to human cheeks.</dd>
 <dt class="glossary" id="geniculate" style="margin-top: 0.4em;"><dfn class="glossary">geniculate</dfn></dt><dd class="glossary">Elbowed. From the Latin for a bended knee, referring to an organ of a type not always expected to be kinked, but having a definite angular bend or hinge. In entomology the term typically refers to an elbowed antenna. For instance, many species of Hemiptera, Coleoptera, and Hymenoptera have markedly geniculate antennae</dd>
@@ -320,7 +313,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 <div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Leptynoma_sericea_Worm_lion_fly_6168.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Leptynoma_sericea_Worm_lion_fly_6168.jpg/220px-Leptynoma_sericea_Worm_lion_fly_6168.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Leptynoma_sericea_Worm_lion_fly_6168.jpg/330px-Leptynoma_sericea_Worm_lion_fly_6168.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Leptynoma_sericea_Worm_lion_fly_6168.jpg/440px-Leptynoma_sericea_Worm_lion_fly_6168.jpg 2x" data-file-width="4000" data-file-height="3000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Leptynoma_sericea_Worm_lion_fly_6168.jpg" class="internal" title="Enlarge"></a></div><center>A fly in the family Vermileonidae, using its <b>hypognathous</b> proboscis to extract nectar from florets.</center></div></div></div>
 <dt class="glossary" id="hypognathous" style="margin-top: 0.4em;"><dfn class="glossary">hypognathous</dfn></dt><dd class="glossary">having mouthparts that are <a href="/wiki/Anatomical_terms_of_location#Prefixes,_suffixes,_and_other_modifiers" title="Anatomical terms of location">ventrad</a> of a vertically oriented head, "pointing downwards", or having an "under bit", instead of pointing backwards or forwards.</dd>
 
-
 <dt class="glossary" id="hypopharynx" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Arthropod_mouthparts" title="Arthropod mouthparts">hypopharynx</a></dfn></dt> <dd class="glossary">Mouthpart. A tonguelike lobe on the floor of the mouth.</dd>
 
 <dt class="glossary" id="idiobiont" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Idiobiont" class="mw-redirect" title="Idiobiont">idiobiont</a></dfn></dt><dd class="glossary">a form of parasitism where the parasitoid paralyzes or leaves the host unable to continue development at <a href="/wiki/Oviposition" class="mw-redirect" title="Oviposition">oviposition</a>.</dd>
@@ -347,9 +339,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 <dt class="glossary" id="lines_of_weakness" style="margin-top: 0.4em;"><dfn class="glossary">lines of weakness</dfn></dt><dd class="glossary">(Anatomical feature) the suture lines where the integument will split to allow for molting or <a href="/wiki/Autotomy" title="Autotomy">autotomy</a>.</dd>
 
 <dt class="glossary" id="lunule" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Lunule_(entomology)&amp;action=edit&amp;redlink=1" class="new" title="Lunule (entomology) (page does not exist)">lunule</a></dfn></dt><dd class="glossary">A body area or marking roughly in the shape of a crescent.</dd>
-
-</dl>
-<dl class="glossary">
 
 <dt class="glossary" id="macrochaete" style="margin-top: 0.4em;"><dfn class="glossary">macrochaete</dfn></dt><dd class="glossary">large bristles and scales.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></dd>
 
@@ -408,9 +397,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 
 <dt class="glossary" id="ozopore" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ozopore" title="Ozopore">ozopore</a></dfn></dt><dd class="glossary">the opening of an <b>ozadene</b>, a stink gland or <b>repugnatorial</b> gland</dd>
 
-</dl>
-<dl class="glossary">
-
 <dt class="glossary" id="palynophagy" style="margin-top: 0.4em;"><dfn class="glossary">palynophagy</dfn></dt><dd class="glossary">feeding on pollen.</dd>
 
 <dt class="glossary" id="parasitoid" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Parasitoid" title="Parasitoid">parasitoid</a></dfn></dt><dd class="glossary">parasite that develops attached to or within a host organism in a relationship which ultimately kills the host.</dd>
@@ -459,9 +445,6 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 <dt class="glossary" id="repugnatorial" style="margin-top: 0.4em;"><dfn class="glossary"><a href="https://en.wiktionary.org/wiki/repugnatorial" class="extiw" title="wiktionary:repugnatorial">repugnatorial</a></dfn></dt><dd class="glossary">(generally in combination as in: "<b>repugnatorial glands</b>"): defensive, or "fighting back", in particular as applied to an <b>ozadene</b>, a gland that can release irritant, poisonous, alarming or distasteful fluids or gases when an organism is under threat. Examples of repugnatorial glands include the <a href="/wiki/Osmeterium" title="Osmeterium">osmeterium</a> of <a href="/wiki/Larva" title="Larva">larvae</a> of the <a href="/wiki/Swallowtail_butterfly" title="Swallowtail butterfly">Papilionidae</a>, the stink glands of most <a href="/wiki/Heteroptera" title="Heteroptera">Heteroptera</a>, the <a href="/wiki/Ozadene" class="mw-redirect" title="Ozadene">ozadenes</a> of <a href="/wiki/Opiliones" title="Opiliones">Opiliones</a>, the odoriferous glands of <a href="/wiki/Diplopoda" class="mw-redirect" title="Diplopoda">Diplopoda</a>, and others. Some insects, such as larvae of many species of the <a href="/wiki/Chrysomelidae" class="mw-redirect" title="Chrysomelidae">Chrysomelidae</a>, use their excreta in repugnatorial roles, for example covering themselves with their own frass.</dd>
 
 <dt class="glossary" id="rhizophagy" style="margin-top: 0.4em;"><dfn class="glossary">rhizophagy</dfn></dt><dd class="glossary">feeding on <a href="/wiki/Rhizome" title="Rhizome">rhizomes</a>.</dd>
-
-</dl>
-<dl class="glossary">
 
 <dt class="glossary" id="saltatorial" style="margin-top: 0.4em;"><dfn class="glossary">saltatorial</dfn></dt><dd class="glossary">adapted for leaping or jumping.</dd>
 
@@ -566,4 +549,3 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 
 <dt class="glossary" id="zoophagy" style="margin-top: 0.4em;"><dfn class="glossary">zoophagy</dfn></dt><dd class="glossary">feeding on animals, and/or animal matter.</dd>
 <div role="note" class="hatnote navigation-not-searchable">"Zoophagy" redirects here. For a notable human proponent, see <a href="/wiki/Francis_Trevelyan_Buckland" title="Francis Trevelyan Buckland">Francis Trevelyan Buckland</a>.</div>
-</dl>
