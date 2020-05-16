@@ -1,3 +1,17 @@
+"Introduction (Wikipedia Glossary of Entomology Terms)"|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_entomology_terms"">Wikipedia's Glossary of entomology terms</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Entomology Terms)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Entomology-Terms-Flashcards""></a><a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Entomology-Terms-Flashcards"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Entomology-Terms-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_entomology_terms"">""Glossary of entomology terms""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_entomology_terms"">https://en.wikipedia.org/wiki/Glossary_of_entomology_terms</a></p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Abdomen#Invertebrates"" title=""Abdomen"">abdomen</a> (Wikipedia Glossary of Entomology Terms)"|"Body of the insect, toward the <a href=""https://en.wikipedia.org/wiki/Posterior_(anatomy)"" class=""mw-redirect"" title=""Posterior (anatomy)"">posterior</a> of the thorax.
 "
 "<a href=""https://en.wikipedia.org/w/index.php?title=Acanthus_(entomology)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Acanthus (entomology) (page does not exist)"">acanthus</a> (Wikipedia Glossary of Entomology Terms)"|"thorn-like projection, typically a single-celled cuticular growth without tormogen (socket) or sensory cells.<sup id=""cite_ref-1"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_architecture#cite_note-1"">&#91;1&#93;</a></sup>
