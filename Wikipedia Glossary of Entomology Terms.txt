@@ -111,7 +111,7 @@
 "anteclypeus (Wikipedia Glossary of Entomology Terms)"|"the lower (anterior) portion of the <a href=""https://en.wikipedia.org/wiki/Clypeus_(arthropod_anatomy)"" title=""Clypeus (arthropod anatomy)"">clypeus</a> of insects.
 "
 "<a href=""https://en.wikipedia.org/wiki/Antenna_(biology)"" title=""Antenna (biology)"">antennae</a> (Wikipedia Glossary of Entomology Terms)"|"The long feelers situated on the head and close to the eyes. They are however not tactile but used for detecting airborne scents and currents.
-<ul><li>In <a href=""https://en.wikipedia.org/wiki/Papilionoidea"" title=""Papilionoidea"">Papilionoidea</a> the antennae end in bulging tips called clubs.</li>
+<ul align=""left""><li>In <a href=""https://en.wikipedia.org/wiki/Papilionoidea"" title=""Papilionoidea"">Papilionoidea</a> the antennae end in bulging tips called clubs.</li>
 <li>In <a href=""https://en.wikipedia.org/wiki/Hesperioidea"" class=""mw-redirect"" title=""Hesperioidea"">Hesperioidea</a> they have hooked tips and the club is found just before the tip.</li>
 <li>In some <a href=""https://en.wikipedia.org/wiki/Lycaenidae"" title=""Lycaenidae"">Lycaenidae</a> like the genus <i><a href=""https://en.wikipedia.org/wiki/Liphyra"" title=""Liphyra"">Liphyra</a></i> the antenna tapers gradually.</li></ul>
 "
@@ -171,7 +171,7 @@ The <i>head</i> of a <i>capitate</i> structure, such as a capitate antenna, or o
 "catenulated antennae (Wikipedia Glossary of Entomology Terms)"|"Antennae with ringed appearance.
 "
 "cell (Wikipedia Glossary of Entomology Terms)"|"The central area surrounded by veins. It can be closed by veins or open.
-<ul><li>The vein forming the boundary of the cell along the costal margin is known as the subcostal vein <i>q.v</i>.</li>
+<ul align=""left""><li>The vein forming the boundary of the cell along the costal margin is known as the subcostal vein <i>q.v</i>.</li>
 <li>The vein forming the lower boundary towards the dorsum is called the <a href=""https://en.wikipedia.org/w/index.php?title=Median_vein&amp;action=edit&amp;redlink=1"" class=""new"" title=""Median vein (page does not exist)"">median vein</a>.</li>
 <li>In the case of butterflies, the cell is closed by a vein connecting the origins of veins 6 to 4 along the top of the cell which is known as <a href=""https://en.wikipedia.org/w/index.php?title=Discocellular_vein&amp;action=edit&amp;redlink=1"" class=""new"" title=""Discocellular vein (page does not exist)"">discocellular vein</a>.</li></ul>
 "
@@ -484,7 +484,7 @@ in some Lepidoptera, including most butterflies, the pupa attaches to a surface 
 "seta (Wikipedia Glossary of Entomology Terms)"|"A stiff chitinous or sclerotised hair or bristle. Also chaeta, cheta
 "
 "setaceous (Wikipedia Glossary of Entomology Terms)"|"
-<ul><li>being like or having the nature of a seta or of setae</li>
+<ul align=""left""><li>being like or having the nature of a seta or of setae</li>
 <li>setose</li></ul>
 "
 "setose (Wikipedia Glossary of Entomology Terms)"|"bearing, or covered in setae.
